@@ -1,0 +1,80 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Body
+Ns 511.764706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd shl_Body_Diffuse.png
+map_Ks shl_Body_Specular.png
+map_d shl_Body_Opacity.png
+
+newmtl Bottom
+Ns 511.764706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 6
+map_Kd shl_Bottom_Diffuse.png
+map_Ks shl_Bottom_Specular.png
+map_d shl_Bottom_Opacity.png
+
+newmtl Hair
+Ns 511.764706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 6
+map_Kd shl_Hair_Diffuse.png
+map_Ks shl_Hair_Specular.png
+map_d shl_Hair_Opacity.png
+
+newmtl Hat
+Ns 511.764706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 6
+map_Kd shl_Hat_Diffuse.png
+map_Ks shl_Hat_Specular.png
+map_d shl_Hat_Opacity.png
+
+newmtl Shoes
+Ns 511.764706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 6
+map_Kd shl_Shoes_Diffuse.png
+map_Ks shl_Shoes_Specular.png
+map_d shl_Shoes_Opacity.png
+
+newmtl Top
+Ns 511.764706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 6
+map_Kd shl_Top_Diffuse.png
+map_Ks shl_Top_Specular.png
+map_d shl_Top_Opacity.png
